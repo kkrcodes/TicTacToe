@@ -171,5 +171,4 @@ public class GameUI extends JPanel {
         game.newGame(twoPlayer);
         this.repaint();
     }
-
 }
