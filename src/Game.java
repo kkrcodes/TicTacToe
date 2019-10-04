@@ -3,7 +3,7 @@ package com.udacity;
 import java.util.Arrays;
 
 /**
- * Created by udacity 2016
+ * Created by udacity 2016, checkGameWinner() function implemented by kkrcodes
  * The Main class containing game logic and backend 2D array
  */
 public class Game {
