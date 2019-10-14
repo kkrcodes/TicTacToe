@@ -9,12 +9,12 @@ The <i> checkGameWinner() </i> function in <i> Game.java </i> is implemented to 
 
 Screenshots
 -----------
-![Game start](screenshots/1-gameStart.PNG?raw=true "Game start")
+![Game start](screenshots/1-gameStart.PNG "Game start")
 
-!['X' column win](screenshots/2-columnWin.PNG?raw=true "'X' column win")
+!['X' column win](screenshots/2-columnWin.PNG "'X' column win")
 
-!['O' row win](screenshots/3-rowWin.PNG?raw=true "'O' row win")
+!['O' row win](screenshots/3-rowWin.PNG "'O' row win")
 
-!['X' diagonal win](screenshots/4-diagonalWin.PNG?raw=true "'X' diagonal win")
+!['X' diagonal win](screenshots/4-diagonalWin.PNG "'X' diagonal win")
 
-![Game tied](screenshots/5-gameTie.PNG?raw=true "Game tied")
+![Game tied](screenshots/5-gameTie.PNG "Game tied")
