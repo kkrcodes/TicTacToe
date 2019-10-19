@@ -1,6 +1,6 @@
 # TicTacToe
 
-Capstone project (done independently) for <i> <a href = "https://in.udacity.com/course/java-programming-basics--ud282" title = "Udacity's Java basics"> Udacity's Java Programming Basics </a> </i> course.
+ Capstone project (done independently) for <i> <a href = "https://in.udacity.com/course/java-programming-basics--ud282" title = "Udacity's Java basics"> Udacity's Java Programming Basics </a> </i> course.
 
 Project Summary
 ---------------
