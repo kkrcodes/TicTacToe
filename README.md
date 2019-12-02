@@ -18,3 +18,8 @@ Screenshots
 !['X' diagonal win](screenshots/4-diagonalWin.PNG "'X' diagonal win")
 
 ![Game tied](screenshots/5-gameTie.PNG "Game tied")
+
+## License
+
+The content of this repository is licensed under a
+[GNU General Public License v3.0](LICENSE).
